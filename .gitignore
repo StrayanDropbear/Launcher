@@ -156,3 +156,5 @@ $RECYCLE.BIN/
 /versions
 /accounts.dat
 /config.json
+launcher-bootstrap/src/main/resources/com/skcraft/launcher/bootstrap.properties
+launcher/src/main/resources/com/skcraft/launcher/launcher.properties
